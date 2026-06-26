@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jamuna" group-title="Live Tv" tvg-server="Server 2",Jamuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv" tvg-server="Server 1",BTV (1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
 
