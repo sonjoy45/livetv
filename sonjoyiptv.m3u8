@@ -15,7 +15,7 @@ http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy TV
+#EXTINF:-1  tvg-logo="",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 
 
