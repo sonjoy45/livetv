@@ -61,7 +61,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bijoy Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 
@@ -149,6 +149,47 @@ http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
 
 #EXTINF:-1  tvg-name="",RTV HD
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel I
+https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dippto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MASSRANGA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+
 
 
 
@@ -788,44 +829,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel I
-https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dippto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEWS 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MASSRANGA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Kids Star
