@@ -150,9 +150,7 @@ http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="",RTV HD
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
 
-
-#EXTINF:-1  tvg-logo="",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="",INDEPENDENT
