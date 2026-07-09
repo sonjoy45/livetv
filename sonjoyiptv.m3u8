@@ -10,16 +10,13 @@ http://103.151.60.162:2121/play/a013/index.m3u8?hls
 #EXTINF:-1   tvg-name="",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-
-#EXTINF:-1  tvg-name="",Channel 24
-http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
+
 
 
 #EXTINF:-1   tvg-name="",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-name="",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
 
 #EXTINF:-1   tvg-name="",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
