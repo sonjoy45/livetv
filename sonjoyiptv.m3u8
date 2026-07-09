@@ -96,16 +96,7 @@ https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:-1  tvg-name="",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-
-#EXTINF:-1  tvg-name="",Jamuna Tv HD
-http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
-
-#EXTINF:-1  tvg-name="",Jamuna Tv SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-
-
-#EXTINF:-1   tvg-name="",Jamuna Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
 
 
 #EXTINF:-1  tvg-name="",MAASRANGA TV HD
