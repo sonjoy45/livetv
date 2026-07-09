@@ -98,10 +98,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 
 
-
-#EXTINF:-1  tvg-name="",MAASRANGA TV HD
-http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
-
+
 
 #EXTINF:-1  tvg-name="",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
@@ -113,10 +110,7 @@ http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 
 #EXTINF:-1  tvg-name="",Gazi TV
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-name="",Ekattor TV
-http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8
+
 
 
 #EXTINF:-1  tvg-name="",Channel i
